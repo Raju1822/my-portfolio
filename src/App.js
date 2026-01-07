@@ -1,5 +1,5 @@
 
-import React, { useEffect, useMemo, useState } from 'react'
+import React from 'react'
 
 /**
  * Single-page Resume in React (no external components).
