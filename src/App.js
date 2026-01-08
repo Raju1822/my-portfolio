@@ -197,7 +197,7 @@ export default function App() {
 
       {/* ===== FOOTER ===== */}
       <footer className="py-4 border-top text-center text-muted">
-        © {new Date().getFullYear()} {profile.name} • Built with React & Bootstrap
+        © {new Date().getFullYear()} {profile.name} • Built with React & Bootstrap By Raju
       </footer>
     </div>
   );
